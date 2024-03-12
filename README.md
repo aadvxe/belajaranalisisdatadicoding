@@ -3,7 +3,7 @@
 
 1. 
    ```shell
-   git clone https://github.com/Mazwan98/dicoding.git
+   git clone https://github.com/aadvxe/belajaranalisisdatadicoding.git
    ```
 
 2.
@@ -13,6 +13,5 @@
 
 3. 
    ```shell
-   cd dashboard/
-   streamlit run dashboard.py
+   streamlit run dashboard/dashboard.py
    ```
